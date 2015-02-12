@@ -70,7 +70,7 @@ echo do_shortcode(theme_get_option('theme_override_default_footer_content') ? th
   
 <?php } ?>
 <p class="cleantheme-page-footer">
-        <span id="cleantheme-footnote-links">Powered by <a href="http://wordpress.org/" target="_blank">WordPress</a> and <a href="http://www.artisteer.com/?p=wordpress_themes" target="_blank">WordPress Theme</a> created with Artisteer by Vuthy.</span>
+        <span id="cleantheme-footnote-links">Powered by <a href="http://wordpress.org/" target="_blank">WordPress</a> and WordPress Theme created  by Vuthy.</span>
         <span id="cleantheme-licence-links">Images by Flickr/winkyintheuk</span>
     </p>
 </div>
