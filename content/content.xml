@@ -1,0 +1,878 @@
+<site>
+ <posts />
+ <pages>
+  <page author="" caption="Home" dateModified="02/11/2015 09:37:50" description="" keywords="" metaTags="" name="home" path="/home" showInHmenu="True" showInVmenu="True" showTitle="False" title="Home" titleInBrowser="Home">
+   <pageHead>&lt;style&gt;.cleantheme-content .cleantheme-postcontent-0 .layout-item-0 { margin-right: 10px;  }
+.cleantheme-content .cleantheme-postcontent-0 .layout-item-1 { padding-top: 0px;padding-right: 10px;padding-left: 0px;  }
+.cleantheme-content .cleantheme-postcontent-0 .layout-item-2 { padding-right: 10px;padding-left: 10px;  }
+.cleantheme-content .cleantheme-postcontent-0 .layout-item-3 { padding-right: 20px;padding-left: 0px;  }
+.cleantheme-content .cleantheme-postcontent-0 .layout-item-4 { border-top-style:dashed;border-right-style:dashed;border-bottom-style:dashed;border-left-style:dashed;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-color:#53A25A;border-right-color:#53A25A;border-bottom-color:#53A25A;border-left-color:#53A25A; color: #36312B; background: #C7F0D7; padding: 15px;  }
+.ie7 .cleantheme-post .cleantheme-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .cleantheme-post .cleantheme-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="cleantheme-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-1" style="width: 57%" &gt;
+        &lt;p&gt;&lt;img alt="" width="350" height="230" src="./images/shutterstock_22818964-2.jpg" class=""&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="cleantheme-layout-cell layout-item-2" style="width: 43%" &gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;On the first page welcome you visitors and try to catch the maximum of their attention in the best possible way.&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;Explain why is your restaurant is good and unique, and what kind of cuisine and service you provide.&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien adipiscing ante eget mauris.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cleantheme-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-3" style="width: 57%" &gt;
+        &lt;h3&gt;Making Events Unforgettable&lt;/h3&gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&lt;/p&gt;
+        &lt;p&gt;Donec at nunc nec dui laoreet porta eu eu ipsum. Sed eget lacus sit amet risus elementum dictum.&lt;/p&gt;
+        &lt;p&gt;Pellentesque sit amet imperdiet nunc. Aenean tellus mi, adipiscing sit amet laoreet eget, lobortis quis nisl.&lt;/p&gt;
+        &lt;p&gt;Sed at turpis vel ipsum adipiscing viverra. Praesent neque turpis, volutpat ultrices porta sit amet, tempus ut ante.&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="cleantheme-layout-cell layout-item-4" style="width: 43%" &gt;
+        &lt;h4&gt;What's New?&lt;/h4&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;Traditional Food Events&lt;/span&gt;&lt;br&gt;
+         &lt;span style="font-style: italic;"&gt;Month 3, 2010&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;We are happy to welcome all our new visitors and offer the best quality seafood at very competitive.&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;
+         We Are Launched&lt;/span&gt;&lt;br&gt;
+         &lt;span style="font-style: italic;"&gt;Month 15, 2010&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;This time is the great opening! Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="cleantheme-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-1" style="width: 57%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="cleantheme-layout-cell layout-item-2" style="width: 43%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cleantheme-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-3" style="width: 57%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="cleantheme-layout-cell layout-item-4" style="width: 43%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;img alt="" width="350" height="230" src="shutterstock_22818964-2.jpg" class=""&gt;&lt;/p&gt;</content>
+     <content>&lt;p&gt;&lt;span style="font-weight: bold;"&gt;On the first page welcome you visitors and try to catch the maximum of their attention in the best possible way.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: bold;"&gt;Explain why is your restaurant is good and unique, and what kind of cuisine and service you provide.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien adipiscing ante eget mauris.&lt;/p&gt;</content>
+     <content>&lt;h3&gt;Making Events Unforgettable&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&lt;/p&gt;
+&lt;p&gt;Donec at nunc nec dui laoreet porta eu eu ipsum. Sed eget lacus sit amet risus elementum dictum.&lt;/p&gt;
+&lt;p&gt;Pellentesque sit amet imperdiet nunc. Aenean tellus mi, adipiscing sit amet laoreet eget, lobortis quis nisl.&lt;/p&gt;
+&lt;p&gt;Sed at turpis vel ipsum adipiscing viverra. Praesent neque turpis, volutpat ultrices porta sit amet, tempus ut ante.&lt;/p&gt;</content>
+     <content>&lt;h4&gt;What's New?&lt;/h4&gt;
+&lt;p&gt;&lt;span style="font-weight: bold;"&gt;Traditional Food Events&lt;/span&gt;&lt;br&gt;
+ &lt;span style="font-style: italic;"&gt;Month 3, 2010&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We are happy to welcome all our new visitors and offer the best quality seafood at very competitive.&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;
+ We Are Launched&lt;/span&gt;&lt;br&gt;
+ &lt;span style="font-style: italic;"&gt;Month 15, 2010&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This time is the great opening! Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Menu" dateModified="09/18/2012 17:41:02" description="" keywords="" metaTags="" name="new-page-2" path="/new-page-2" showInHmenu="True" showInVmenu="True" showTitle="True" title="Menu" titleInBrowser="Menu">
+   <pageHead>&lt;style&gt;.cleantheme-content .cleantheme-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .cleantheme-post .cleantheme-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .cleantheme-post .cleantheme-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;img alt="" src="./images/food01-2.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+        
+        &lt;h3&gt;Meat with Onions and Tomatos&lt;/h3&gt;
+        
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris. Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id. Duis placerat justo eu nunc interdum ultrices. Phasellus elit dolor, porttitor id consectetur sit amet, posuere id magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+        
+        &lt;h3&gt;$ 16.95&lt;/h3&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        
+        &lt;p&gt;&lt;img alt="" src="./images/food02.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+        
+        &lt;h3&gt;Shrimps with Tomatos and Avocados&lt;/h3&gt;
+        
+        &lt;p&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus. Morbi tristique posuere consequat. Sed bibendum tincidunt porttitor. Maecenas ut lorem lacus. Suspendisse et sem odio, at eleifend massa. Donec ut hendrerit enim. Fusce ornare elit nisl, feugiat bibendum lorem. Vivamus pretium dictum sem vel laoreet.&lt;/p&gt;
+        
+        &lt;h3&gt;$ 17.95&lt;/h3&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        
+        &lt;p&gt;&lt;img alt="" src="./images/food06.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+        
+        &lt;h3&gt;Oysters with&amp;nbsp;Onions and&amp;nbsp;Tomatos&lt;/h3&gt;
+        
+        &lt;p&gt;In fringilla pharetra purus, semper vulputate ligula cursus in. Donec at nunc nec dui laoreet porta eu eu ipsum. Sed eget lacus sit amet risus elementum dictum. Pellentesque sit amet imperdiet nunc. Aenean tellus mi, adipiscing sit amet laoreet eget, lobortis quis nisl. Quisque volutpat urna orci, id gravida nisi. Nullam posuere interdum est sit amet aliquam. Suspendisse malesuada metus ac enim feugiat commodo. Nullam eu consectetur nulla. Praesent faucibus condimentum quam.&lt;/p&gt;
+        
+        &lt;h3&gt;$ 21.95&lt;/h3&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        
+        &lt;p&gt;&lt;img alt="" src="./images/food04.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+        
+        &lt;h3&gt;Salad with&amp;nbsp;Olives and&amp;nbsp;Tomatos&lt;/h3&gt;
+        
+        &lt;p&gt;Fusce ornare elit nisl, feugiat bibendum lorem. Vivamus pretium dictum sem vel laoreet. In fringilla pharetra purus, semper vulputate ligula cursus in. Donec at nunc nec dui laoreet porta eu eu ipsum. Sed eget lacus sit amet risus elementum dictum. Pellentesque sit amet imperdiet nunc. Aenean tellus mi, adipiscing sit amet laoreet eget, lobortis quis nisl. Quisque volutpat urna orci, id gravida nisi. Nullam posuere interdum est sit amet aliquam. Suspendisse malesuada metus ac enim feugiat commodo.&lt;/p&gt;
+        
+        &lt;h3&gt;$ 16.95&lt;/h3&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        
+        &lt;p&gt;&lt;img alt="" src="./images/food08.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+        
+        &lt;h3&gt;Salad with&amp;nbsp;Tomatos&lt;/h3&gt;
+        
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris. Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id. Duis placerat justo eu nunc interdum ultrices. Phasellus elit dolor, porttitor id consectetur sit amet, posuere id magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+        
+        &lt;h3&gt;$ 12.95&lt;/h3&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        
+        &lt;p&gt;&lt;img alt="" src="./images/food01d.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+        
+        &lt;h3&gt;Vanila Ice-Cream and Pancakes&lt;/h3&gt;
+        
+        &lt;p&gt;Fusce ornare elit nisl, feugiat bibendum lorem. Vivamus pretium dictum sem vel laoreet. In fringilla pharetra purus, semper vulputate ligula cursus in. Donec at nunc nec dui laoreet porta eu eu ipsum. Sed eget lacus sit amet risus elementum dictum. Pellentesque sit amet imperdiet nunc. Aenean tellus mi, adipiscing sit amet laoreet eget, lobortis quis nisl. Quisque volutpat urna orci, id gravida nisi. Nullam posuere interdum est sit amet aliquam. Suspendisse malesuada metus ac enim feugiat commodo.&lt;/p&gt;
+        
+        &lt;h3&gt;$ 13.95&lt;/h3&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        
+        &lt;p&gt;&lt;img alt="" src="./images/food04d.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+        
+        &lt;h3&gt;Cheesecake and Berries&lt;/h3&gt;
+        
+        &lt;p&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus. Morbi tristique posuere consequat. Sed bibendum tincidunt porttitor. Maecenas ut lorem lacus. Suspendisse et sem odio, at eleifend massa. Donec ut hendrerit enim. Fusce ornare elit nisl, feugiat bibendum lorem. Vivamus pretium dictum sem vel laoreet.&lt;/p&gt;
+        
+        &lt;h3&gt;$ 21.95&lt;/h3&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        
+        &lt;p&gt;&lt;img alt="" src="./images/food06d.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+        
+        &lt;h3&gt;Ice-Cream&amp;nbsp;with Berries&lt;/h3&gt;
+        
+        &lt;p&gt;In fringilla pharetra purus, semper vulputate ligula cursus in. Donec at nunc nec dui laoreet porta eu eu ipsum. Sed eget lacus sit amet risus elementum dictum. Pellentesque sit amet imperdiet nunc. Aenean tellus mi, adipiscing sit amet laoreet eget, lobortis quis nisl. Quisque volutpat urna orci, id gravida nisi. Nullam posuere interdum est sit amet aliquam. Suspendisse malesuada metus ac enim feugiat commodo. Nullam eu consectetur nulla. Praesent faucibus condimentum quam.&lt;/p&gt;
+        
+        &lt;h3&gt;$ 18.95&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;img alt="" src="food01-2.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Meat with Onions and Tomatos&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris. Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id. Duis placerat justo eu nunc interdum ultrices. Phasellus elit dolor, porttitor id consectetur sit amet, posuere id magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+
+&lt;h3&gt;$ 16.95&lt;/h3&gt;&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;p&gt;&lt;img alt="" src="food02.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Shrimps with Tomatos and Avocados&lt;/h3&gt;
+
+&lt;p&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus. Morbi tristique posuere consequat. Sed bibendum tincidunt porttitor. Maecenas ut lorem lacus. Suspendisse et sem odio, at eleifend massa. Donec ut hendrerit enim. Fusce ornare elit nisl, feugiat bibendum lorem. Vivamus pretium dictum sem vel laoreet.&lt;/p&gt;
+
+&lt;h3&gt;$ 17.95&lt;/h3&gt;&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;p&gt;&lt;img alt="" src="food06.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Oysters with&amp;nbsp;Onions and&amp;nbsp;Tomatos&lt;/h3&gt;
+
+&lt;p&gt;In fringilla pharetra purus, semper vulputate ligula cursus in. Donec at nunc nec dui laoreet porta eu eu ipsum. Sed eget lacus sit amet risus elementum dictum. Pellentesque sit amet imperdiet nunc. Aenean tellus mi, adipiscing sit amet laoreet eget, lobortis quis nisl. Quisque volutpat urna orci, id gravida nisi. Nullam posuere interdum est sit amet aliquam. Suspendisse malesuada metus ac enim feugiat commodo. Nullam eu consectetur nulla. Praesent faucibus condimentum quam.&lt;/p&gt;
+
+&lt;h3&gt;$ 21.95&lt;/h3&gt;&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;p&gt;&lt;img alt="" src="food04.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Salad with&amp;nbsp;Olives and&amp;nbsp;Tomatos&lt;/h3&gt;
+
+&lt;p&gt;Fusce ornare elit nisl, feugiat bibendum lorem. Vivamus pretium dictum sem vel laoreet. In fringilla pharetra purus, semper vulputate ligula cursus in. Donec at nunc nec dui laoreet porta eu eu ipsum. Sed eget lacus sit amet risus elementum dictum. Pellentesque sit amet imperdiet nunc. Aenean tellus mi, adipiscing sit amet laoreet eget, lobortis quis nisl. Quisque volutpat urna orci, id gravida nisi. Nullam posuere interdum est sit amet aliquam. Suspendisse malesuada metus ac enim feugiat commodo.&lt;/p&gt;
+
+&lt;h3&gt;$ 16.95&lt;/h3&gt;&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;p&gt;&lt;img alt="" src="food08.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Salad with&amp;nbsp;Tomatos&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris. Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id. Duis placerat justo eu nunc interdum ultrices. Phasellus elit dolor, porttitor id consectetur sit amet, posuere id magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+
+&lt;h3&gt;$ 12.95&lt;/h3&gt;&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;p&gt;&lt;img alt="" src="food01d.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Vanila Ice-Cream and Pancakes&lt;/h3&gt;
+
+&lt;p&gt;Fusce ornare elit nisl, feugiat bibendum lorem. Vivamus pretium dictum sem vel laoreet. In fringilla pharetra purus, semper vulputate ligula cursus in. Donec at nunc nec dui laoreet porta eu eu ipsum. Sed eget lacus sit amet risus elementum dictum. Pellentesque sit amet imperdiet nunc. Aenean tellus mi, adipiscing sit amet laoreet eget, lobortis quis nisl. Quisque volutpat urna orci, id gravida nisi. Nullam posuere interdum est sit amet aliquam. Suspendisse malesuada metus ac enim feugiat commodo.&lt;/p&gt;
+
+&lt;h3&gt;$ 13.95&lt;/h3&gt;&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;p&gt;&lt;img alt="" src="food04d.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Cheesecake and Berries&lt;/h3&gt;
+
+&lt;p&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus. Morbi tristique posuere consequat. Sed bibendum tincidunt porttitor. Maecenas ut lorem lacus. Suspendisse et sem odio, at eleifend massa. Donec ut hendrerit enim. Fusce ornare elit nisl, feugiat bibendum lorem. Vivamus pretium dictum sem vel laoreet.&lt;/p&gt;
+
+&lt;h3&gt;$ 21.95&lt;/h3&gt;&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;p&gt;&lt;img alt="" src="food06d.jpg" width="250" height="250" style="float: left; margin-right: 20px" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Ice-Cream&amp;nbsp;with Berries&lt;/h3&gt;
+
+&lt;p&gt;In fringilla pharetra purus, semper vulputate ligula cursus in. Donec at nunc nec dui laoreet porta eu eu ipsum. Sed eget lacus sit amet risus elementum dictum. Pellentesque sit amet imperdiet nunc. Aenean tellus mi, adipiscing sit amet laoreet eget, lobortis quis nisl. Quisque volutpat urna orci, id gravida nisi. Nullam posuere interdum est sit amet aliquam. Suspendisse malesuada metus ac enim feugiat commodo. Nullam eu consectetur nulla. Praesent faucibus condimentum quam.&lt;/p&gt;
+
+&lt;h3&gt;$ 18.95&lt;/h3&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Reviews" dateModified="09/18/2012 17:41:02" description="" keywords="" metaTags="" name="new-page-3" path="/new-page-3" showInHmenu="True" showInVmenu="True" showTitle="True" title="Reviews" titleInBrowser="Reviews">
+   <pageHead>&lt;style&gt;.cleantheme-content .cleantheme-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .cleantheme-post .cleantheme-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .cleantheme-post .cleantheme-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;h4&gt;Thank you for the hospitality&lt;/h4&gt;
+        
+        &lt;p&gt;I would like to thank you for the hospitality, the nice atmosphere, and the excellent cuisine. I will encourage my colleagues, friends and others to visit your wonderful place. Curabitur ligula justo, tincidunt nec interdum elementum, iaculis nec lorem. Maecenas ultricies faucibus magna, vel feugiat ante vehicula quis. Integer semper quam ac ligula ultricies pretium. Donec vulputate, ipsum in ornare semper, justo lectus accumsan ante, non feugiat elit odio nec nulla. Mauris nec mi sed libero varius malesuada eget sed sem. Curabitur eu turpis sit amet leo mattis facilisis. Mauris in aliquam augue. Sed adipiscing ante nec augue vehicula ac tempus enim ullamcorper. Curabitur quis odio at dui fermentum elementum. Cras quam arcu, sagittis ac sodales nec, dignissim quis mi. Mauris laoreet placerat dui ut rhoncus.&lt;/p&gt;
+        
+        &lt;p&gt;&lt;span style="font-style: italic;"&gt;- Denisse Warren, Internet Marketer&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;
+        
+        &lt;h4&gt;What a wonderful restaurant&lt;/h4&gt;
+        
+        &lt;p&gt;Good day. Yesterday visited your wonderful restaurant, and, to be honest, the interior and service are outstanding. Fusce ornare elit nisl, feugiat bibendum lorem. Vivamus pretium dictum sem vel laoreet. In fringilla pharetra purus, semper vulputate ligula cursus in. Donec at nunc nec dui laoreet porta eu eu ipsum. Sed eget lacus sit amet risus elementum dictum. Pellentesque sit amet imperdiet nunc. Aenean tellus mi, adipiscing sit amet laoreet eget, lobortis quis nisl. Quisque volutpat urna orci, id gravida nisi. Nullam posuere interdum est sit amet aliquam. Suspendisse malesuada metus ac enim feugiat commodo.&lt;/p&gt;
+        
+        &lt;p&gt;&lt;span style="font-style: italic;"&gt;- Paul Sellings, Banker&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;
+        
+        &lt;h4&gt;High quality food&lt;/h4&gt;
+        
+        &lt;p&gt;The food is of high quality and very affortable to us. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed et faucibus mi. In hendrerit ligula ut diam imperdiet in fringilla diam suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tortor nisl, ultricies quis tincidunt a, gravida ut ante. Curabitur non viverra libero. Aenean ornare arcu urna. Aenean a egestas orci. Maecenas tempus viverra erat, at hendrerit est blandit tincidunt. Fusce ut quam neque.&lt;/p&gt;
+        
+        &lt;p&gt;&lt;span style="font-style: italic;"&gt;- Melissa Brown, Entrepreneur&lt;/span&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;h4&gt;Thank you for the hospitality&lt;/h4&gt;
+
+&lt;p&gt;I would like to thank you for the hospitality, the nice atmosphere, and the excellent cuisine. I will encourage my colleagues, friends and others to visit your wonderful place. Curabitur ligula justo, tincidunt nec interdum elementum, iaculis nec lorem. Maecenas ultricies faucibus magna, vel feugiat ante vehicula quis. Integer semper quam ac ligula ultricies pretium. Donec vulputate, ipsum in ornare semper, justo lectus accumsan ante, non feugiat elit odio nec nulla. Mauris nec mi sed libero varius malesuada eget sed sem. Curabitur eu turpis sit amet leo mattis facilisis. Mauris in aliquam augue. Sed adipiscing ante nec augue vehicula ac tempus enim ullamcorper. Curabitur quis odio at dui fermentum elementum. Cras quam arcu, sagittis ac sodales nec, dignissim quis mi. Mauris laoreet placerat dui ut rhoncus.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-style: italic;"&gt;- Denisse Warren, Internet Marketer&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;
+
+&lt;h4&gt;What a wonderful restaurant&lt;/h4&gt;
+
+&lt;p&gt;Good day. Yesterday visited your wonderful restaurant, and, to be honest, the interior and service are outstanding. Fusce ornare elit nisl, feugiat bibendum lorem. Vivamus pretium dictum sem vel laoreet. In fringilla pharetra purus, semper vulputate ligula cursus in. Donec at nunc nec dui laoreet porta eu eu ipsum. Sed eget lacus sit amet risus elementum dictum. Pellentesque sit amet imperdiet nunc. Aenean tellus mi, adipiscing sit amet laoreet eget, lobortis quis nisl. Quisque volutpat urna orci, id gravida nisi. Nullam posuere interdum est sit amet aliquam. Suspendisse malesuada metus ac enim feugiat commodo.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-style: italic;"&gt;- Paul Sellings, Banker&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;
+
+&lt;h4&gt;High quality food&lt;/h4&gt;
+
+&lt;p&gt;The food is of high quality and very affortable to us. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed et faucibus mi. In hendrerit ligula ut diam imperdiet in fringilla diam suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tortor nisl, ultricies quis tincidunt a, gravida ut ante. Curabitur non viverra libero. Aenean ornare arcu urna. Aenean a egestas orci. Maecenas tempus viverra erat, at hendrerit est blandit tincidunt. Fusce ut quam neque.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-style: italic;"&gt;- Melissa Brown, Entrepreneur&lt;/span&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Coupons" dateModified="09/18/2012 17:41:02" description="" keywords="" metaTags="" name="new-page-4" path="/new-page-4" showInHmenu="True" showInVmenu="True" showTitle="True" title="Coupons" titleInBrowser="Coupons">
+   <pageHead>&lt;style&gt;.cleantheme-content .cleantheme-postcontent-0 .layout-item-0 { margin-right: 10px;  }
+.cleantheme-content .cleantheme-postcontent-0 .layout-item-1 { border-top-style:dashed;border-right-style:dashed;border-bottom-style:dashed;border-left-style:dashed;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-color:#53A25A;border-right-color:#53A25A;border-bottom-color:#53A25A;border-left-color:#53A25A; padding-right: 10px;padding-left: 10px;  }
+.cleantheme-content .cleantheme-postcontent-0 .layout-item-2 { border-top-style:dashed;border-right-style:dashed;border-bottom-style:dashed;border-left-style:dashed;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-color:#53A25A;border-right-color:#53A25A;border-bottom-color:#53A25A;border-left-color:#53A25A;border-top:none !important; padding-right: 10px;padding-left: 10px;  }
+.ie7 .cleantheme-post .cleantheme-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .cleantheme-post .cleantheme-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="cleantheme-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-1" style="width: 50%" &gt;
+        &lt;h3&gt;Save $3 on Any Dessert&lt;/h3&gt;
+        
+        &lt;p&gt;&lt;img alt="" src="./images/food01d.jpg" width="250" height="250" /&gt;&lt;/p&gt;
+        
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="cleantheme-layout-cell layout-item-1" style="width: 50%" &gt;
+        &lt;h3&gt;Save $3 on Any Dessert&lt;/h3&gt;
+        
+        &lt;p&gt;&lt;img alt="" src="./images/food02d.jpg" width="250" height="250" /&gt;&lt;/p&gt;
+        
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cleantheme-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-2" style="width: 50%" &gt;
+        &lt;h3&gt;Save $3 on Any Dessert&lt;/h3&gt;
+        
+        &lt;p&gt;&lt;img alt="" src="./images/food03d.jpg" width="250" height="250" /&gt;&lt;/p&gt;
+        
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="cleantheme-layout-cell layout-item-2" style="width: 50%" &gt;
+        &lt;h3&gt;Save $3 on Any Dessert&lt;/h3&gt;
+        
+        &lt;p&gt;&lt;img alt="" src="./images/food08d.jpg" width="250" height="250" /&gt;&lt;/p&gt;
+        
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cleantheme-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-2" style="width: 50%" &gt;
+        &lt;h3&gt;Save $3 on Any Dessert&lt;/h3&gt;
+        
+        &lt;p&gt;&lt;img alt="" src="./images/food05d.jpg" width="250" height="250" /&gt;&lt;/p&gt;
+        
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="cleantheme-layout-cell layout-item-2" style="width: 50%" &gt;
+        &lt;h3&gt;Save $3 on Any Dessert&lt;/h3&gt;
+        
+        &lt;p&gt;&lt;img alt="" src="./images/food07d.jpg" width="250" height="250" /&gt;&lt;/p&gt;
+        
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="cleantheme-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-1" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="cleantheme-layout-cell layout-item-1" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cleantheme-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-2" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="cleantheme-layout-cell layout-item-2" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cleantheme-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-2" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="cleantheme-layout-cell layout-item-2" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;h3&gt;Save $3 on Any Dessert&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="" src="food01d.jpg" width="250" height="250" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content>
+     <content>&lt;h3&gt;Save $3 on Any Dessert&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="" src="food02d.jpg" width="250" height="250" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content>
+     <content>&lt;h3&gt;Save $3 on Any Dessert&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="" src="food03d.jpg" width="250" height="250" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content>
+     <content>&lt;h3&gt;Save $3 on Any Dessert&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="" src="food08d.jpg" width="250" height="250" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content>
+     <content>&lt;h3&gt;Save $3 on Any Dessert&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="" src="food05d.jpg" width="250" height="250" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content>
+     <content>&lt;h3&gt;Save $3 on Any Dessert&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="" src="food07d.jpg" width="250" height="250" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Calendar" dateModified="09/18/2012 17:41:02" description="" keywords="" metaTags="" name="new-page-5" path="/new-page-5" showInHmenu="True" showInVmenu="True" showTitle="True" title="Calendar" titleInBrowser="Calendar">
+   <pageHead>&lt;style&gt;.cleantheme-content .cleantheme-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .cleantheme-post .cleantheme-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .cleantheme-post .cleantheme-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;Use the Calendar to easily keep track of your restaurant arrangements. Let your clients and other visitors follow your scheduled events.&lt;/span&gt;&lt;/p&gt;
+        
+        &lt;table cellspacing="0" cellpadding="0" style="width: 100%"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td colspan="7" style="padding: 10px;text-align: center"&gt;&lt;span style="font-weight: bold;"&gt;Month 2010&lt;/span&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+        
+                &lt;tr&gt;
+                    &lt;td style="padding: 10px"&gt;Monday&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;Tuesday&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;Wednesday&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;Thursday&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;Friday&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;Saturday&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;Sunday&lt;/td&gt;
+                &lt;/tr&gt;
+        
+                &lt;tr&gt;
+                    &lt;td style="padding: 10px"&gt; &lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt; &lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt; &lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;1&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;2&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;3&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;4&lt;/td&gt;
+                &lt;/tr&gt;
+        
+                &lt;tr&gt;
+                    &lt;td style="padding: 10px"&gt;5&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;6&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;7&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;8&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;9&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;10&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;11&lt;/td&gt;
+                &lt;/tr&gt;
+        
+                &lt;tr&gt;
+                    &lt;td style="padding: 10px"&gt;12&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;13&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;14&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;15&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;16&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;17&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;18&lt;/td&gt;
+                &lt;/tr&gt;
+        
+                &lt;tr&gt;
+                    &lt;td style="padding: 10px"&gt;19&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;20&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;21&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;22&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;23&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;24&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;25&lt;/td&gt;
+                &lt;/tr&gt;
+        
+                &lt;tr&gt;
+                    &lt;td style="padding: 10px"&gt;26&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;27&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;28&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;29&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt;30&lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt; &lt;/td&gt;
+        
+                    &lt;td style="padding: 10px"&gt; &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;span style="font-weight: bold;"&gt;Use the Calendar to easily keep track of your restaurant arrangements. Let your clients and other visitors follow your scheduled events.&lt;/span&gt;&lt;/p&gt;
+
+&lt;table cellspacing="0" cellpadding="0" style="width: 100%"&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td colspan="7" style="padding: 10px;text-align: center"&gt;&lt;span style="font-weight: bold;"&gt;Month 2010&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td style="padding: 10px"&gt;Monday&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;Tuesday&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;Wednesday&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;Thursday&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;Friday&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;Saturday&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;Sunday&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td style="padding: 10px"&gt; &lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt; &lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt; &lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;1&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;2&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;3&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;4&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td style="padding: 10px"&gt;5&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;6&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;7&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;8&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;9&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;10&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;11&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td style="padding: 10px"&gt;12&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;13&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;14&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;15&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;16&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;17&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;18&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td style="padding: 10px"&gt;19&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;20&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;21&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;22&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;23&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;24&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;25&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td style="padding: 10px"&gt;26&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;27&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;28&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;29&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt;30&lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt; &lt;/td&gt;
+
+            &lt;td style="padding: 10px"&gt; &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Gallery" dateModified="09/18/2012 17:41:02" description="" keywords="" metaTags="" name="new-page-6" path="/new-page-6" showInHmenu="True" showInVmenu="True" showTitle="True" title="Gallery" titleInBrowser="Gallery">
+   <pageHead>&lt;style&gt;.cleantheme-content .cleantheme-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .cleantheme-post .cleantheme-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .cleantheme-post .cleantheme-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;This is a page to present the restaurant in the most attractive way. Share pictures that best describe the atmosphere, the cuisine, the clientele and the occasions.&lt;/span&gt;&lt;/p&gt;
+        
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris. Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id. Duis placerat justo eu nunc interdum ultrices.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p style="text-align: center;"&gt;&lt;img alt="" src="./images/12small.jpg" width="280" height="187" /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="cleantheme-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p style="text-align: center;"&gt;&lt;img alt="" src="./images/shutterstock_22818964.jpg" width="284" height="186" /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p style="text-align: center;"&gt;&lt;img alt="" src="./images/shutterstock_40367920.jpg" width="279" height="186" /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="cleantheme-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p style="text-align: center;"&gt;&lt;img alt="" src="./images/c-davidniblack-music.jpg" width="284" height="189" /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-0" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="cleantheme-layout-cell layout-item-0" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-0" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="cleantheme-layout-cell layout-item-0" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;span style="font-weight: bold;"&gt;This is a page to present the restaurant in the most attractive way. Share pictures that best describe the atmosphere, the cuisine, the clientele and the occasions.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris. Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id. Duis placerat justo eu nunc interdum ultrices.&lt;/p&gt;</content>
+     <content>&lt;p style="text-align: center;"&gt;&lt;img alt="" src="12small.jpg" width="280" height="187" /&gt;&lt;/p&gt;</content>
+     <content>&lt;p style="text-align: center;"&gt;&lt;img alt="" src="shutterstock_22818964.jpg" width="284" height="186" /&gt;&lt;/p&gt;</content>
+     <content>&lt;p style="text-align: center;"&gt;&lt;img alt="" src="shutterstock_40367920.jpg" width="279" height="186" /&gt;&lt;/p&gt;</content>
+     <content>&lt;p style="text-align: center;"&gt;&lt;img alt="" src="c-davidniblack-music.jpg" width="284" height="189" /&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Directions" dateModified="02/11/2015 09:39:44" description="" keywords="" metaTags="" name="directions" path="/directions" showInHmenu="True" showInVmenu="True" showTitle="True" title="Directions" titleInBrowser="Directions">
+   <pageHead>&lt;style&gt;.cleantheme-content .cleantheme-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .cleantheme-post .cleantheme-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .cleantheme-post .cleantheme-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;Provide your address, phone numbers and e-mail information allowing visitors to reach you faster. Maps and directions might be also useful.&lt;/span&gt;&lt;/p&gt;
+         
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id. Duis placerat justo eu nunc interdum ultrices.&lt;/p&gt;
+         
+        &lt;h4&gt;Clean Restaurant&lt;/h4&gt;
+         
+        &lt;p&gt;586 Main Ave, Building 42&lt;br&gt;
+         Main City, Country 12345-6789&lt;/p&gt;
+         
+        &lt;p&gt;T: (855-70) 80 90 34&lt;br&gt;
+         F: (555) 523 - 4567&lt;/p&gt;
+         
+        &lt;p&gt;W:&amp;nbsp;&lt;a href="http://www.VeniceRestaurant.com"&gt;http://www.yourdomain.com&lt;/a&gt;&lt;br&gt;
+         E: &amp;nbsp;&lt;a href="mailto%3amyemail%40VeniceRestaurant.com"&gt;myemail@yourdomain.com&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="cleantheme-content-layout"&gt;
+    &lt;div class="cleantheme-content-layout-row"&gt;
+    &lt;div class="cleantheme-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;span style="font-weight: bold;"&gt;Provide your address, phone numbers and e-mail information allowing visitors to reach you faster. Maps and directions might be also useful.&lt;/span&gt;&lt;/p&gt;
+ 
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id. Duis placerat justo eu nunc interdum ultrices.&lt;/p&gt;
+ 
+&lt;h4&gt;Clean Restaurant&lt;/h4&gt;
+ 
+&lt;p&gt;586 Main Ave, Building 42&lt;br&gt;
+ Main City, Country 12345-6789&lt;/p&gt;
+ 
+&lt;p&gt;T: (855-70) 80 90 34&lt;br&gt;
+ F: (555) 523 - 4567&lt;/p&gt;
+ 
+&lt;p&gt;W:&amp;nbsp;&lt;a href="http://www.VeniceRestaurant.com"&gt;http://www.yourdomain.com&lt;/a&gt;&lt;br&gt;
+ E: &amp;nbsp;&lt;a href="mailto%3amyemail%40VeniceRestaurant.com"&gt;myemail@yourdomain.com&lt;/a&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+ </pages>
+ <sidebars>
+  <sidebar caption="" name="sidebar1">
+   <menuWidget name="art_vmenu-1" position="0" title="Navigation">
+    <content>&lt;div class="cleantheme-vmenublock clearfix"&gt;
+        &lt;div class="cleantheme-vmenublockcontent" &gt;
+&lt;ul class="cleantheme-vmenu"&gt;
+	&lt;li&gt;
+		&lt;a href="/home" class="active"&gt;Home&lt;/a&gt;
+	&lt;/li&gt;	
+	&lt;li&gt;
+		&lt;a href="/new-page-2" &gt;Menu&lt;/a&gt;
+	&lt;/li&gt;	
+	&lt;li&gt;
+		&lt;a href="/new-page-3" &gt;Reviews&lt;/a&gt;
+	&lt;/li&gt;	
+	&lt;li&gt;
+		&lt;a href="/new-page-4" &gt;Coupons&lt;/a&gt;
+	&lt;/li&gt;	
+	&lt;li&gt;
+		&lt;a href="/new-page-5" &gt;Calendar&lt;/a&gt;
+	&lt;/li&gt;	
+	&lt;li&gt;
+		&lt;a href="/new-page-6" &gt;Gallery&lt;/a&gt;
+	&lt;/li&gt;	
+	&lt;li&gt;
+		&lt;a href="/directions" &gt;Directions&lt;/a&gt;
+	&lt;/li&gt;	
+&lt;/ul&gt;
+                
+        &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <pageHead></pageHead>
+   </menuWidget>
+   <block name="text-1" position="1" title="Featured Offers">
+    <content>&lt;p&gt;&lt;img alt="" width="88" height="88" src="food01.jpg" style="float: left; margin-right: 10px; margin-bottom: 20px;" class=""&gt;&lt;/p&gt;
+&lt;p&gt;Meat with Onions and Tomatos&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-weight:bold;"&gt;$25.95&lt;/span&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;br clear="all"&gt;
+&lt;p&gt;&lt;img alt="" width="88" height="88" src="food02.jpg" style="float: left; margin-right: 10px; margin-bottom: 20px;"&gt;&lt;/p&gt;
+&lt;p&gt;Shrimps with Tomatos and Avocados&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-weight:bold;"&gt;$17.95&lt;/span&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;br clear="all"&gt;
+&lt;p&gt;&lt;img alt="" width="88" height="88" src="food01d.jpg" style="float: left; margin-right: 10px; margin-bottom: 20px;"&gt;&lt;/p&gt;
+&lt;p&gt;Vanila Ice-Cream and Pancakes&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-weight:bold;"&gt;$13.95&lt;/span&gt;&lt;/p&gt;
+&lt;br clear="all"&gt;</content>
+    <pageHead></pageHead>
+   </block>
+  </sidebar>
+  <sidebar caption="" name="content-before" />
+  <sidebar caption="" name="content-after" />
+ </sidebars>
+ <collages />
+</site>

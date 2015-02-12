@@ -1,0 +1,132 @@
+
+
+.cleantheme-header, #cleantheme-header-bg, .cleantheme-layout-cell, .cleantheme-layout-wrapper, .cleantheme-footer, .cleantheme-nav, #cleantheme-hmenu-bg, .cleantheme-sheet,
+.clearfix {
+   zoom: expression(this.runtimeStyle.zoom="1", this.appendChild(document.createElement("br")).className="cleared");
+}
+
+.cleantheme-textblock > div {
+   display: block;
+   line-height: normal;
+   zoom: 1;
+}
+
+.cleantheme-header
+{
+   z-index: 1;
+   background-image: [headerimage];
+   background-position: [headerposition];
+}
+
+#cleantheme-header-bg 
+{
+   display: none;
+}
+
+.cleantheme-hmenu>li, .cleantheme-hmenu>li>a
+{
+   display: inline !important;
+   zoom: 1;
+   float: none !important;
+   vertical-align: top;
+}
+ul.cleantheme-hmenu, ul.cleantheme-hmenu ul {
+   zoom: expression(this.runtimeStyle.zoom="1", this.appendChild(document.createElement("br")).className="cleared");
+}
+#cleantheme-hmenu-bg 
+{
+   display: none;
+}
+
+ul.cleantheme-hmenu>li:first-child {
+   padding-right:9px;
+}
+ul.cleantheme-hmenu>li{
+   zoom:expression(runtimeStyle.zoom=1,insertBefore(document.createElement('span'),firstChild).className='cleantheme-hmenu-separator');
+}
+ul.cleantheme-hmenu>li>span.cleantheme-hmenu-separator
+{
+   position:absolute;
+   display: block;
+   top:0;
+   left:  -9px;
+   width: 9px;
+   height: 25px;
+   background: url('images/menuseparator.png') center center no-repeat;
+}
+ul.cleantheme-hmenu>li:first-child>span.cleantheme-hmenu-separator
+{
+   display:none;
+}
+
+ul.cleantheme-hmenu ul{
+   background-color: #9A8D7E !important;
+}
+
+.cleantheme-content-layout, .cleantheme-content-layout-row, .cleantheme-layout-cell 
+{
+   display: block;
+   zoom: 1;
+}
+.cleantheme-layout-cell
+{
+   position:relative;
+   float: left;
+   clear: right;
+}
+
+ul.cleantheme-vmenu, ul.cleantheme-vmenu ul, ul.cleantheme-vmenu li{
+   zoom: 1;
+}
+
+ul.cleantheme-vmenu ul 
+{
+}
+
+input[type="text"]
+{
+   margin:0 0 0 -3px;
+   zoom:expression(runtimeStyle.zoom = 1, parentNode.insertBefore(document.createElement('div'), this).appendChild(this));
+}
+
+* html input[type="text"]
+{
+   margin :0;
+}
+
+form.cleantheme-search>input[type="text"]
+{
+   margin:0 0 0 -3px;
+   zoom:expression(runtimeStyle.zoom = 1, parentNode.insertBefore(document.createElement('div'), this).appendChild(this));
+}
+
+form.cleantheme-search div>input[type="text"]
+{
+   width: 100%;
+}
+
+* html form.cleantheme-search>input[type="text"] 
+{
+   margin :0;
+}
+
+.cleantheme-postheadericons span{
+   zoom: 1;
+}
+.cleantheme-postcontent {
+   height: 1%;
+}
+
+.close-alt, .arrow-right-alt, .arrow-left-alt {
+   display: block !important;
+}
+.cw, .ccw {
+   display: none !important;
+}
+
+.cleantheme-content 
+{
+   width: auto;
+   float:none;
+}
+
